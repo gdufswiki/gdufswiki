@@ -6,7 +6,7 @@ repo_url: https://github.com/gdufswiki/gdufswiki
 edit_uri: docs
 
 nav:
-  - 关于我们: index.md
+  - 培训内容: index.md
 
       
 theme:

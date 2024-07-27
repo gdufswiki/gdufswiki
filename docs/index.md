@@ -1,20 +1,78 @@
-# 🔥** 欢迎来到3+1资料分享Wiki **
-
-您可以通过 [https://github.com/cuit-tech-wiki/cuit-tech-wiki](https://github.com/cuit-tech-wiki/cuit-tech-wiki) 加入我们的Wiki资料库.
-
-## 联系方式
-
-* `Github:` [TPO-tech-wiki](https://github.com/cuit-tech-wiki)   📚
+[TOC]
 
 
-## 部分项目管理
 
-* [基于HAL开发的STM32各模块库 [stm32F407]](https://github.com/cuit-tech-wiki/stm32F407)
-* [基于cubemx的STM32系列FreeRTOS+STEMWIN移植 [cubemx-FreeRTOS-emwin]](https://github.com/cuit-tech-wiki/cubemx-FreeRTOS-emwin)
-* [便携式指纹锁 [Fingerprint-Lock]](https://github.com/cuit-tech-wiki/Fingerprint-Lock)
+# 培训内容
 
-## 贡献人员
+## 一、代理搭建
 
-<a href="https://github.com/cuit-tech-wiki/cuit-tech-wiki/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cuit-tech-wiki/cuit-tech-wiki" />
-</a>
+### 正向代理（gost等）
+
+### 反向代理（frp等）
+
+### 防火墙突破
+
+
+
+## 二、信息收集
+
+### windows信息收集
+
+### linux信息收集
+
+
+
+## 三、横向移动
+
+### PTH（smb、winrs&rm、wmi、ipc等）
+
+### PTT（MS系列、历史遗留等）
+
+### 约束 & 非约束委派
+
+
+
+## 四、权限提升
+
+### linux权限提升（suid、capabilities等）
+
+### windows权限提升（土豆家族等）
+
+
+
+## 五、常见工具使用
+
+### impacket系列
+
+### CS & MSF 系列
+
+### 代理软件
+
+### 免杀工具（掩日、RingQ等）
+
+### bloodhound & sharphound
+
+### 漏洞库构造、搜索操作
+
+
+
+
+
+
+
+## 六、常见漏洞打靶
+
+### shiro550
+
+### mysql-udf
+
+### redis+土豆、主从复制
+
+
+
+## 七、多层内网环境打靶
+
+### 提供1-2个靶场环境练习
+
+
+
