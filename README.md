@@ -9,7 +9,7 @@ Bilibili视频讲解地址：https://www.bilibili.com/video/BV1Fg41137qG/
 ①fork项目建立 git 仓库（必须要递归拉取，否则无法获得子模块）
 
 ```
-git clone  --recursive https://github.com/cuit-tech-wiki/cuit-tech-wiki/ 
+git clone  --recursive https://github.com/gdufswiki/gdufswiki/
 ```
 
 ②安装依赖文件
