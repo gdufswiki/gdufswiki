@@ -7,8 +7,8 @@ edit_uri: docs
 
 nav:
   - 培训内容: index.md
-
-      
+  - gdufs:
+      奖学金绩点综测: index1.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
