@@ -6,6 +6,8 @@ repo_url: https://github.com/gdufswiki/gdufswiki
 edit_uri: docs
 
 nav:
+  - 简介:
+      你好! : interface.md
   - 实验室介绍:
       网络空间安全实验室: index.md
       计算语言学实验室: index3.md
