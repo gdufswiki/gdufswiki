@@ -8,8 +8,10 @@ edit_uri: docs
 nav:
   - 实验室介绍:
       网络空间安全实验室: index.md
+      计算语言学实验室: index3.md
   - gdufs:
       奖学金绩点综测: index1.md
+      英语学习建议: index2.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
