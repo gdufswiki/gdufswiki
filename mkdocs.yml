@@ -6,7 +6,8 @@ repo_url: https://github.com/gdufswiki/gdufswiki
 edit_uri: docs
 
 nav:
-  - 网络空间安全实验室: index.md
+  - 实验室介绍:
+      网络空间安全实验室: index.md
   - gdufs:
       奖学金绩点综测: index1.md
 theme:
