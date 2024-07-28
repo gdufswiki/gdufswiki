@@ -1,6 +1,6 @@
 # 网络空间安全实验室
 
-![img](https://img.xiumi.us/xmi/ua/4Bilr/i/6dcfed9c851ef02977892495ec150355-sz_93448.jpg)
+![img](./assets/gwht.jpg)
 
 ## 简介
 
