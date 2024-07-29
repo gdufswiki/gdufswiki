@@ -7,13 +7,14 @@ edit_uri: docs
 
 nav:
   - 简介:
-      你好! : interface.md
+      wiki简介 : index.md
   - 实验室介绍:
-      网络空间安全实验室: index.md
-      计算语言学实验室: index3.md
-  - gdufs:
-      奖学金绩点综测: index1.md
-      英语学习建议: index2.md
+      网络空间安全实验室: laboratory/index.md
+      计算语言学实验室: laboratory/index1.md
+  - 关于学习:
+      英语学习建议: study/index1.md
+  - 关于标准:
+      奖学金绩点综测: rules/index1.md
 theme:
   name: null
   custom_dir: mkdocs-material/material
